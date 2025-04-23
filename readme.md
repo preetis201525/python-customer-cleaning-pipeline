@@ -3,6 +3,11 @@
 This project demonstrates a real-world data engineering pipeline using Python and pandas.
 We clean messy customer data including names, email addresses, phone numbers, and missing values.
 
+## 📸 Sample Output Preview
+
+![Data Cleaning Preview](CleaningPreview.png)
+
+
 ## 🔧 Key Features:
 - Cleaned inconsistent phone number formats using regex
 - Validated email addresses with logic (no `@@`, no missing domains, one `@`)
